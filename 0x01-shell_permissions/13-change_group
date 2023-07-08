@@ -1,4 +1,2 @@
 #!/bin/bash
-
-# Change the group owner of the file
 sudo chown :school hello
