@@ -1,0 +1,2 @@
+#!/bin/bash
+read -rs input && echo -n "$input" | tr 'Ac' 'Ze'
